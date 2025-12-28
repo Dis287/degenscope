@@ -1,4 +1,4 @@
 streamlit
-polygon-api-client
+requests
 pandas
 matplotlib
